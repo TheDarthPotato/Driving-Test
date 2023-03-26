@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EmptyComposeApp</string>
+    <string name="title_activity_pantalla_quiz">PantallaQuiz</string>
+    <string name="title_activity_difficulty_screen">DifficultyScreen</string>
+    <string name="title_activity_finish_screen">FinishScreen</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+</resources>
